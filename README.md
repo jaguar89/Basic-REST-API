@@ -1,6 +1,6 @@
 # RESTapi
 
-Simple RESTapi example.
+Simple REST API example.
 
 Using: Node.js & Express & Joi & Nodemon
 
