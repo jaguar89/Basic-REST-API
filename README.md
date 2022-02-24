@@ -1,5 +1,7 @@
 # RESTapi
 
-simple RESTapi example.
+Simple RESTapi example.
 
-using: Node.js & Express & Joi & Nodemon
+Using: Node.js & Express & Joi & Nodemon
+
+Tested with Firefox/RESTer.
