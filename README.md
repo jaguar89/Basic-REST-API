@@ -1,5 +1,5 @@
 # RESTapi
 
-simpe RESTapi example.
+simple RESTapi example.
 
 using: Node.js & Express & Joi & Nodemon
